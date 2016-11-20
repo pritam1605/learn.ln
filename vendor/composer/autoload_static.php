@@ -239,6 +239,8 @@ class ComposerStaticInit5a8eaa0cac954aab810f7d7aa38843b2
         'ClassPreloader\\Parser\\NodeTraverser' => __DIR__ . '/..' . '/classpreloader/classpreloader/src/ClassPreloader/Parser/NodeTraverser.php',
         'CreateArt' => __DIR__ . '/../..' . '/app/database/migrations/2016_11_17_172924_create_art.php',
         'CreatePaintings' => __DIR__ . '/../..' . '/app/database/migrations/2016_11_17_175313_create_paintings.php',
+        'CreateSessionTable' => __DIR__ . '/../..' . '/app/database/migrations/2016_11_19_203303_create_session_table.php',
+        'CreateUser' => __DIR__ . '/../..' . '/app/database/migrations/2016_11_19_202746_create_user.php',
         'Crypt_AES' => __DIR__ . '/..' . '/phpseclib/phpseclib/phpseclib/Crypt/AES.php',
         'Crypt_Base' => __DIR__ . '/..' . '/phpseclib/phpseclib/phpseclib/Crypt/Base.php',
         'Crypt_Blowfish' => __DIR__ . '/..' . '/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php',

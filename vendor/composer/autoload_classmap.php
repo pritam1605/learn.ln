@@ -31,6 +31,8 @@ return array(
     'ClassPreloader\\Parser\\NodeTraverser' => $vendorDir . '/classpreloader/classpreloader/src/ClassPreloader/Parser/NodeTraverser.php',
     'CreateArt' => $baseDir . '/app/database/migrations/2016_11_17_172924_create_art.php',
     'CreatePaintings' => $baseDir . '/app/database/migrations/2016_11_17_175313_create_paintings.php',
+    'CreateSessionTable' => $baseDir . '/app/database/migrations/2016_11_19_203303_create_session_table.php',
+    'CreateUser' => $baseDir . '/app/database/migrations/2016_11_19_202746_create_user.php',
     'Crypt_AES' => $vendorDir . '/phpseclib/phpseclib/phpseclib/Crypt/AES.php',
     'Crypt_Base' => $vendorDir . '/phpseclib/phpseclib/phpseclib/Crypt/Base.php',
     'Crypt_Blowfish' => $vendorDir . '/phpseclib/phpseclib/phpseclib/Crypt/Blowfish.php',

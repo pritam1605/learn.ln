@@ -409,3 +409,4 @@
 127.0.0.1 - - [19/Nov/2016:00:58:18 -0500] "GET /favicon.ico HTTP/1.1" 200 295 "http://www.learn.ln/signup" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
 127.0.0.1 - - [19/Nov/2016:01:03:02 -0500] "GET /signup HTTP/1.1" 200 1305 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
 127.0.0.1 - - [19/Nov/2016:01:03:03 -0500] "GET /favicon.ico HTTP/1.1" 200 295 "http://www.learn.ln/signup" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
+127.0.0.1 - - [19/Nov/2016:15:25:30 -0500] "POST /thanks HTTP/1.1" 200 822 "http://www.learn.ln/signup" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36"
