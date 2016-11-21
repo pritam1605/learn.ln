@@ -18,7 +18,15 @@ Route::get('/', function() {
 
 });
 
-Route::get('signup', function() {
+Route::get('/register', function() {
+	return View::make('register');
+});
+
+Route::post('/register', function() {
+	return View::make('register');
+});
+
+/*Route::get('signup', function() {
 	return View::make('signup');
 });
 
@@ -76,4 +84,4 @@ Route::get('about/directions', function() {
 
 Route::get('about/content/{testVariable}', function($testVariable) {
 	return "{$testVariable} content goes here.";
-});
+});*/
